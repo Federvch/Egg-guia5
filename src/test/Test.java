@@ -18,5 +18,10 @@ public class Test {
         // TODO code application logic here
     }
     
-private spting  atrib1;
+private GG  atrib1;
+
+private string atrib2;
+
+
+
 
